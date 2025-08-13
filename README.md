@@ -100,6 +100,10 @@ Contributions are welcome! You can:
 # License
 This project is licensed under the MIT License.
 
+📬 Contact
+
+📧 Email: olalekanoyeleye@yahoo.com 🔗 LinkedIn: https://www.linkedin.com/in/olalekanoyeleye/
+
 ## Acknowledgements
   - LangChain for enabling LLM agents.
   - OpenAI for the language model.
