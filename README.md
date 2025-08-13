@@ -100,8 +100,8 @@ Contributions are welcome! You can:
 # License
 This project is licensed under the MIT License.
 
-📬 Contact
-
+# Contact
+For questions or collaboration, reach me at:
 📧 Email: olalekanoyeleye@yahoo.com 🔗 LinkedIn: https://www.linkedin.com/in/olalekanoyeleye/
 
 ## Acknowledgements
